@@ -19,11 +19,12 @@ I'm a passionate software engineer working at **Red Hat**, where I contribute to
 
 - 💼 LinkedIn: [linkedin.com/in/Juanma-Barea](https://www.linkedin.com/in/juanma-barea-mart%C3%ADnez-a8400996/)
 - 🌐 Portfolio: [https://juanmabm.github.io/portfolio/](https://juanmabm.github.io/portfolio/)
-- Medium: [https://medium.com/@juanmabareamartinez](https://medium.com/@juanmabareamartinez)
+- ✍️ Medium: [https://medium.com/@juanmabareamartinez](https://medium.com/@juanmabareamartinez)
 
 ---
 
 ## 📈 GitHub Stats
 ![](https://raw.githubusercontent.com/JuanmaBM/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/JuanmaBM/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
