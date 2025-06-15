@@ -9,9 +9,9 @@
 
 I'm a passionate software engineer working at **Red Hat**, where I contribute to open source technologies and help build scalable, reliable systems. With a strong interest in **AI**, **automation**, and **DevOps culture**, I enjoy crafting tools that empower developers and make infrastructure smarter.
 
-- 🔭 Currently working on cloud-native solutions and open source infrastructure.
+- 🔭 Currently working on cloud-native solutions, AI agents/MLOps and open source RedHat projects.
 - 🌱 Always learning about large language models, CI/CD, and Kubernetes.
-- 🤝 Open to collaborations on open source, especially in DevOps or AI spaces.
+- 🤝 Open to collaborations on open source, especially in Cloud, DevOps or AI spaces.
 
 ---
 
