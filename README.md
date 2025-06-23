@@ -28,3 +28,10 @@ I'm a passionate software engineer working at **Red Hat**, where I contribute to
 ![](https://raw.githubusercontent.com/JuanmaBM/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
 ---
+
+## 🛠️ Languages and Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=golang,python,js,typescript,nodejs,java,spring,ocaml,flask,fastapi,react,linux,redhat,ubuntu,docker,kubernetes,openshift,postgres,mysql,cassandra,mongo,redis,nginx,aws,azure,ansible,postman,bash,git,vim,grafana,prometheus,jenkins,kafka,rabbitmq" />
+  </a>
+</p>
